@@ -2,4 +2,4 @@
 
 Portfolio statique en HTML, CSS et JS.
 
-En ligne ici : http://yannisthalgott.me/
+En ligne ici : https://yannisthalgott.me/
